@@ -1,12 +1,6 @@
 # Awesome Websites
 List of some really cool websites
 
-To remove unwanted paywall
-
-https://12ft.io/
-
-https://1ft.io/
-
 Vocalremover separates the music from the vocals with a powerful AI algorithm
 
 https://vocalremover.org/
@@ -14,7 +8,6 @@ https://vocalremover.org/
 Remove background in a video
 
 https://www.unscreen.com/
-
 
 To make flow charts in JS
 
@@ -245,8 +238,6 @@ https://waitbutwhy.com/
 Visualize Json into interactive graphs
 https://jsoncrack.com/
 
-Watercolor Paintings
-https://easypaintingidea.com/
 
 
 
