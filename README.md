@@ -238,6 +238,9 @@ https://waitbutwhy.com/
 Visualize Json into interactive graphs
 https://jsoncrack.com/
 
+An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+https://iambored.site/
+
 
 
 
