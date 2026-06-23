@@ -238,6 +238,10 @@ https://waitbutwhy.com/
 Visualize Json into interactive graphs
 https://jsoncrack.com/
 
+This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
+
+https://aipower.spot/
+
 
 
 
